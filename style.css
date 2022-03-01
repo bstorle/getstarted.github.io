@@ -321,7 +321,7 @@ body {
   border-top: 3px solid #fff;
   cursor: pointer;
   opacity: 0.3;
-  transition: all 0.3s ease;
+  transition: all 4.5s ease;
 }
 .trail div:hover {
   opacity: 0.6;
